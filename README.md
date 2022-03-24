@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dg1asap&label=Profile%20views&color=0e75b6&style=flat" alt="dg1asap" /> </p>
 
-- 🔭 I’m currently working on **State Machine Encoder (Engineering Thesis)**
+- 🔭 I’m currently working on **State Machine Encoder (Bachelor's degree thesis)**
 
 - 🌱 I’m currently learning **Clean architecture**
 
