@@ -1,4 +1,3 @@
-![MasterHead](https://iconshots.com/wp-content/uploads/2019/03/Java-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Damian Górski</h1>
 <h3 align="center">A developer who wants to create high-quality software</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
