@@ -26,7 +26,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vim.org/images/vim_small.gif" alt="vim" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2016/04/spring-boot-logo-1.png?ssl=1" alt="git" width="40" height="40"/> </a> <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2016/04/spring-boot-logo-1.png?ssl=1" alt="git" width="40" height="40"/> </a> <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/> </a>
  
 <h3 align="left">Frontend:</h3>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
